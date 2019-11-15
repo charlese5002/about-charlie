@@ -4,7 +4,8 @@ charlese5002@hstat.org
 
 ## School: [HSTAT](http://hstat.org/)
 
-## **Bio:** <br>I am 16 year old male.<br> I am enrolled in 11th grade SEP program in the highschool named HSTAT.<br>
+## **Bio:**
+<br>I am 16 year old male.<br> I am enrolled in 11th grade SEP program in the highschool named HSTAT.<br>
 
 ## Schedule:
 ========
